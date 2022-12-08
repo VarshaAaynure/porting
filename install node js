@@ -1,0 +1,6 @@
+
+# To install node 14 on x86_64
+
+wget "https://nodejs.org/dist/v14.9.0/node-v14.9.0-linux-x64.tar.gz"
+tar -xzf v14.9.0/node-v14.9.0-linux-x64.tar.gz
+export PATH=/node-v14.9.0-linux-x64/bin:$PATH
